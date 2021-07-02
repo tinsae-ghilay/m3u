@@ -7,6 +7,8 @@ https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
 https://live-hls-aje-ak.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-name="CBS News" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="News",CBS News (720p)
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
+#EXTINF:-1 tvg-id="CSPAN-US" tvg-name="CSPAN-US" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGBmzm3.png" group-title="Legislative",C-SPAN (720p)
+https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News US" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/ABC_News_Live_logo.svg" group-title="News",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABC News.au" tvg-name="ABC News AU" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="",ABC News (720p)
@@ -29,6 +31,8 @@ https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNews.us" tvg-name="SkyNews" tvg-country="US" tvg-language="English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="",Sky News (720p)
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 tvg-id="BlackNewsChannel.us" tvg-name="Black News Channel" tvg-country="US" tvg-language="English" tvg-logo="https://image.xumo.com/v1/channels/channel/9999960/248x140.png?type=channelTile" group-title="News",Black News Channel (1080p)
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATV1.us" tvg-name="NASA TV 1" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Education",NASA TV 1 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATV2.us" tvg-name="NASA TV 2" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Education",NASA TV 2 
@@ -99,14 +103,30 @@ https://dust-samsung-uk-au.samsung.wurl.com/manifest/playlist.m3u8
 https://dust-samsung-uk-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="8.at" tvg-name="8-Okto tv" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/6LBIDFo.png"group-title="",Dust (720p)
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCIFCFilmPicks.us" tvg-name="AMC IFC Film Picks" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",AMC IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCPresents.us" tvg-name="AMC Presents" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Entertainment",AMC Presents
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCRush.us" tvg-name="AMC Rush" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Movies",AMC Rush
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AMCRush.us" tvg-name="Rush_by_AMC" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjc2NjQxMDdf/AMCNetworks_v2_365x365.png" group-title="Movies",AMC | Rush by AMC
+https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="AquaTeenHungerForce.us" tvg-name="Aqua Teen Hunger Force (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Aqua Teen Hunger Force (Adult Swim 24/7 Stream) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-id="Bounce.us" tvg-name="Bounce" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YoiQKeG.png" group-title="General",Bounce (720p)
+https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
+#EXTINF:-1 tvg-id="BountyPlus.au" tvg-name="Bounty Plus" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/Q8mmLAB.png" group-title="",Bounty Plus (720p)
+https://bountyfilms-bounty-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lhjj94a.png" group-title="Kids",Brat TV (1080p)
+https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="AddisTV.et" tvg-name="Addis TV" tvg-country="ET" tvg-language="Amharic" tvg-logo="https://i.imgur.com/KAg6MOI.png" group-title="",Addis TV
 https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" group-title="",Bloomberg TV
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 #EXTINF:-1 tvg-id="Mixhollywood.us" tvg-name="Mix Hollywood" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XCbSfMb.jpg" group-title="",Mix Hollywood TV
-http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/143.m3u8</URL>
+http://4uchannells.live:8080/live/E9T6WjqMMC/nvomCmAkEm/143.m3u8
 #EXTINF:-1 tvg-id="ElFadjer.eg" tvg-name="El Fadjer TV" tvg-country="EG" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/El_Fadjer_TV.png" group-title="",El Fadjer TV
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8</URL>
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC.us" tvg-name="NAT GEO" tvg-country="US" tvg-language="" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="",NATIONAL GEOGRAPHIC
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TravelXP.uk" tvg-name="Travel XP" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travel XP (720p)
@@ -161,3 +181,11 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://to.hopslan.com/zdf/index.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at" tvg-name="Kronehit" tvg-country="AT" tvg-language="German" tvg-logo="" group-title="Music",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="30AMusic.us" tvg-name="30A Music" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music (720p)
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMusicChannel.us" tvg-name="California Music Channel" tvg-country="US" tvg-language="English" tvg-logo="http://3.bp.blogspot.com/-Ngn_IHUGV-E/VoGzyGsSlkI/AAAAAAAAAjc/XTspAPwP2TE/s1600/CMC-Music-Channel.png" group-title="Music",California Music Channel (720p)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream.m3u8
+#EXTINF:-1 tvg-id="Brut.fr" tvg-name="Brut." tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oWj3dQP.jpg" group-title="News",Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="AMCAbsoluteReality.us" tvg-name="AMC Absolute Reality" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yngqRL8.png" group-title="Documentary",AMC Absolute Reality
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
