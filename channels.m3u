@@ -149,6 +149,8 @@ https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 https://insighttv-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InwonderTV.nl" tvg-name="Inwonder TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="",Inwonder TV (720p)
 https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF I" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_I_Logo.png" group-title="",ORF 1 (720p) [Geo-blocked]
+https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd|https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&amp;userToken=vSgRhjzUfkSX19gmPcwQ/kmy1zt+T50bfnBCD5SWnvOSFTxPFCo1gP5fP/W7NwlEQwMvo4qqbYHJyAMXRNuAEjHyrSYUqN6DUijJp/1QtZM5lYR7gZsGq2wgUMp9j9neIRQfzbSstAvTT0+YiBAm6tldm7nGz7tOsehilH5SoActGSUykgc333IqVqw1LtMDIv9doZjpBtBRAH5z7Sa+LRPwJ006kEar1IYGhiFIj0c0OLTqAEoh4PfIT2hsGeAf
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" group-title="",ORF 3 (720p) [Geo-blocked]
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="oe24TV.at" tvg-name="oe24.TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="",oe24.TV (720p)
