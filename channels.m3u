@@ -41,7 +41,7 @@ http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATV2.us" tvg-name="NASA TV 2" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Education",NASA TV 2 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="Wion.in" tvg-name="WION News" tvg-country="IN" tvg-language="English" tvg-logo="https://en.wikipedia.org/wiki/WION_(TV_channel)#/media/File:WION_news_Logo.svg" group-title="News",WION Channel 
+#EXTINF:-1 tvg-id="Wion.in" tvg-name="WION News" tvg-country="IN" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/WION_TV_logo.jpg" group-title="News",WION Channel 
 https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/5b07ff91-68b4-4bce-983c-fef084f403b6/4.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International HD" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
