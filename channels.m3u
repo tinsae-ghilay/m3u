@@ -207,7 +207,7 @@ https://insighttv-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InwonderTV.nl" tvg-name="Inwonder TV" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="",Inwonder TV (720p)
 https://inwonder-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ORF1.at" tvg-name="ORF I" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_I_Logo.png" group-title="",ORF 1 (720p) [Geo-blocked]
-https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd|https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=dTTbm4SdZqCj5fZBFWO4GtQgP7TAFLc2ku3UJsNjMKm1WmJ8bLj0elWVqN6omYyH6OLmmJYlvUxEDHrY3FHFMd9D6u3i385%2FwxySgRRqe3wydJUksUugxkMQ%2B2bz8E6jUwEcDOUDE8sqeseyLA9NGI9dOabgFIGPSrb5Aen6ZRZ35GjU3AfoSyGEvmX4f2PWwoOPs4toGN%2Bu%2B5X0oFUHpRtTkSFy7EABNf9GEgda5%2FRjNHAA6sT3ohb1uu5ri6mU
+https://orf1.mdn.ors.at/out/u/orf1/drmqxa/manifest.mpd|https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&amp;userToken=dTTbm4SdZqCj5fZBFWO4GtQgP7TAFLc2ku3UJsNjMKm1WmJ8bLj0elWVqN6omYyH6OLmmJYlvUxEDHrY3FHFMd9D6u3i385%2FwxySgRRqe3wydJUksUugxkMQ%2B2bz8E6jUwEcDOUDE8sqeseyLA9NGI9dOabgFIGPSrb5Aen6ZRZ35GjU3AfoSyGEvmX4f2PWwoOPs4toGN%2Bu%2B5X0oFUHpRtTkSFy7EABNf9GEgda5%2FRjNHAA6sT3ohb1uu5ri6mU
 #EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" group-title="",ORF 3 (720p) [Geo-blocked]
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1 tvg-id="oe24TV.at" tvg-name="oe24.TV" tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="",oe24.TV (720p)
