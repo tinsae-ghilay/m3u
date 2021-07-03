@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Africanews.eu" tvg-name="Africanews Live" tvg-country="DE" tvg-language="English" tvg-logo="https://de.wikipedia.org/wiki/Africanews#/media/Datei:Africanews._alternative_logo_2016.png" group-title="",Africanews
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsinEnglish.fr" tvg-name="Euronews in English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="News",Euronews in English (720p)
+#EXTINF:-1 tvg-id="EuronewsinEnglish.fr" tvg-name="Euronews in English" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="News",Euronews in English (720p)
 https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
 https://live-hls-aje-ak.getaj.net/AJE/index.m3u8
