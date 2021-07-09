@@ -246,3 +246,13 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2
 http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="XXX",A3BIKINI TV (720p)
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#EXTINF:-1 tvg-id="FTVHD.fr" tvg-name="FTV HD" tvg-country="FR" tvg-language="" tvg-logo="" group-title="",FTV HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="FTVMidnightSecret.fr" tvg-name="FTV Midnight Secret" tvg-country="FR" tvg-language="" tvg-logo="" group-title="",FTV Midnight Secret
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FTVNews.fr" tvg-name="FTV News" tvg-country="FR" tvg-language="" tvg-logo="" group-title="",FTV News
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="FTVTeens.fr" tvg-name="FTV Teens" tvg-country="FR" tvg-language="" tvg-logo="" group-title="",FTV Teens
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
