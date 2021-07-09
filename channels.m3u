@@ -43,8 +43,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="Wion.in" tvg-name="WION News" tvg-country="IN" tvg-language="English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/WION_TV_logo.jpg" group-title="News",WION Channel 
 https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/5b07ff91-68b4-4bce-983c-fef084f403b6/4.m3u8
-#EXTINF:-1 tvg-id="Bbc.uk" tvg-name="BBC News" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/480px-BBC_News_2019.svg.png" group-title="News",BBC news HD
-https://bbc.newscdn.org/9N4QLLuc3MshesiqMc8eqA==,1625839998/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International HD" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International HD
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
