@@ -218,6 +218,42 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://to.hopslan.com/zdf/index.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at" tvg-name="Kronehit" tvg-country="AT" tvg-language="German" tvg-logo="" group-title="Music",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ZWEI2Music.de" tvg-name="ZWEI2 Music" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="Music",ZWEI2 Music (1080p)
+https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
+#EXTINF:-1 tvg-id="MTVMistleYO.us" tvg-name="MTV Mistle YO!" tvg-country="US" tvg-language="English" tvg-logo="http://i.imgur.com/dh6sgLX.jpg" group-title="Music",MTV Mistle YO! (720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://www.lyngsat.com/logo/tv/num/1hd-music-tv-ru.png" group-title="Music",1HD Music Television
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="1Mus.hu" tvg-name="1Mus" tvg-country="HU" tvg-language="" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Music",1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="1MusicChannelHungary.hu" tvg-name="1Music Channel Hungary" tvg-country="HU" tvg-language="Hungarian" tvg-logo="" group-title="Music",1Music Channel Hungary
+http://1music.hu/1music.m3u8
+#EXTINF:-1 tvg-id="ADRIAMusic.de" tvg-name="ADRIA Music" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/pPAj9Ua.png" group-title="Music",ADRIA Music (1080p)
+https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
+#EXTINF:-1 tvg-id="TMA.gp" tvg-name="TMA" tvg-country="GP" tvg-language="French" tvg-logo="https://i.imgur.com/fQUzBsz.png" group-title="Music",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="VEVO2KUS.us" tvg-name="VEVO 2K (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SG96HGW.jpg" group-title="Music",VEVO 2K (US) (1080p)
+https://5fa09a21270b74000140368e-samsung.ssai.zype.com/5fa09a21270b74000140368e_samsung/manifest.m3u8
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-name="Vevo 80s" tvg-country="US" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="",Vevo 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-id="VEVOCountryUS.us" tvg-name="VEVO Country (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BFdWrhQ.jpg" group-title="Music",VEVO Country (US) (1080p)
+https://5dcc69faf960dd5dcc551818-s-2.ssai.zype.com/5dcc69faf960dd5dcc551818-s-2/manifest.m3u8
+#EXTINF:-1 tvg-id="VEVOHipHopUS.us" tvg-name="VEVO Hip Hop (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Music",VEVO Hip Hop (US) (1080p)
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:-1 tvg-id="VevoHoliday.us" tvg-name="Vevo Holiday" tvg-country="US" tvg-language="" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/11162020/Vevo_Holiday_190X190.png?raw=true" group-title="",Vevo Holiday
+https://5dcc69bb1621dc5de50b1db7-s-1.ssai.zype.com/5dcc69bb1621dc5de50b1db7-s-1/manifest.m3u8
+#EXTINF:-1 tvg-id="VEVOLatinoUS.us" tvg-name="VEVO Latino (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Music",VEVO Latino (US) (1080p)
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 tvg-id="VevoPop.us" tvg-name="Vevo Pop" tvg-country="US" tvg-language="" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="",Vevo Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-id="VevoPopEngland.us" tvg-name="Vevo Pop (England)" tvg-country="US" tvg-language="" tvg-logo="" group-title="",Vevo Pop (England)
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1 tvg-id="VEVORBUS.us" tvg-name="VEVO R&B (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/fJFzPB7.jpg" group-title="Music",VEVO R&B (US) (1080p)
+https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="Music India" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="ONE1Music.de" tvg-name="ONE1 Music" tvg-country="DE" tvg-language="" tvg-logo="https://i.imgur.com/fHbHbEH.png" group-title="Music",ONE1 Music (1080p)
+https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
 #EXTINF:-1 tvg-id="30AMusic.us" tvg-name="30A Music" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music (720p)
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="LatidoMusicUS.us" tvg-name="Latido Music (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JsHqCfm.jpg" group-title="Music",Latido Music (US)
@@ -246,9 +282,11 @@ http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2
 http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDIxIDI6NTk6NDkgQU0maGFzaF92YWx1ZT1hME9SSkZjRFpMd3JBU2w0dWRtZU5RPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="XXX",A3BIKINI TV (720p)
+#EXTINF:-1 tvg-id="A3BIKINITV.us" tvg-name="A3BIKINI TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="Fashion",A3BIKINI TV (720p)
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 tvg-id="FTVMidnightSecret.fr" tvg-name="FTV Midnight Secret" tvg-country="FR" tvg-language="" tvg-logo="" group-title="",FTV Midnight Secret
+#EXTINF:-1 tvg-id="FTVMidnightSecret.fr" tvg-name="FTV Midnight Secret" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Fashion",FTV Midnight Secret
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FTVTeens.fr" tvg-name="FTV Teens" tvg-country="FR" tvg-language="" tvg-logo="" group-title="",FTV Teens
+#EXTINF:-1 tvg-id="FTVTeens.fr" tvg-name="FTV Teens" tvg-country="FR" tvg-language="" tvg-logo="" group-title="Fashion",FTV Teens
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-id="JasminTV.lu" tvg-name="Jasmin TV" tvg-country="LU" tvg-language="English" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="Fashion",Jasmin TV (720p)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
