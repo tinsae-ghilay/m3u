@@ -142,7 +142,7 @@ https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-name="Ion Plus" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="Family",Ion Plus (1080p)
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AquaTeenHungerForce.us" tvg-name="Aqua Teen Hunger Force (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Aqua Teen Hunger Force (Adult Swim 24/7 Stream) [Geo-blocked]
+#EXTINF:-1 tvg-id="AquaTeenHungerForce.us" tvg-name="Aqua Teen H.F " tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Aqua Teen Hunger Force (Adult Swim 24/7 Stream) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 tvg-id="Bounce.us" tvg-name="Bounce" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YoiQKeG.png" group-title="General",Bounce (720p)
 https://bozztv.com/teleyupp/teleup-bounce/playlist.m3u8
