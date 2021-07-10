@@ -13,6 +13,8 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 https://bozztv.com/teleyupp/teleup-cspan/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-name="ABC News US" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/ABC_News_Live_logo.svg" group-title="News",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="BBC World News.uk" tvg-name="BBC world news" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/600px-BBC_World_News_2019.svg.png" group-title="News",BBC world news SD
+http://176.222.187.146/btv/SWM/BBC_World/BBC_World_270p_1200kbps.m3u8
 #EXTINF:-1 tvg-id="VoATV.us" tvg-name="VoA TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="News",VoA TV (1080p)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-id="ABC News.au" tvg-name="ABC News AU" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="News",ABC News (720p)
