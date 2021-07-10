@@ -204,6 +204,10 @@ https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 https://the-pet-collective-international-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-country="DE" tvg-language="German" tvg-logo="" group-title="",3sat [Geo-blocked]
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAXX live" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/640px-DMAX_-_Logo_2016.svg.png" group-title="",DMAX live (720p)
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL-NITRO Live" tvg-country="DE" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nitro_TV-Logo_2017.png/799px-Nitro_TV-Logo_2017.png" group-title="",RTL-NITRO live (720p)
+https://wu.wukongtv.ga:6633/DMAX/video.m3u8
+https://wu.wukongtv.ga:6633/NITRO/video.m3u8
 #EXTINF:-1 tvg-id="atv.de" tvg-name="a.tv" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" group-title="",a.tv (1080p)
 https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-country="DE" tvg-language="German" tvg-logo="http://logos.zattic.com/images/channels/logos/2a2a4aee64bbd6f7f817/black/84x48.png" group-title="",Das Erste (720p)
