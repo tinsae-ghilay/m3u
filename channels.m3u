@@ -170,6 +170,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.us" tvg-name="PBS America" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="General",PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSWorldChannel.us" tvg-name="PBS World Channel" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Entertainment",PBS World Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="",Comedy Channel (1080p)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DryBarComedy.us" tvg-name="DryBar Comedy" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nUXwP5M.png" group-title="",DryBar Comedy (720p)
@@ -286,6 +288,12 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
 #EXTINF:-1 tvg-id="FOXSoul.us" tvg-name="FOX Soul" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6Hb2XXs.jpg" group-title="",FOX Soul (1080p)
 http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SYFY.us" tvg-name="SYFY" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertainment",SYFY
+https://bozztv.com/teleyupp/teleup-syfy/playlist.m3u8
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-name="WOW TV" tvg-country="SV" tvg-language="" tvg-logo="https://forounivers.com/uploads/monthly_2020_05/large.wowtv2020.png.4fa9c9f8cb5ec86eb2b81a45780bdc93.png" group-title="",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w829907558.m3u8
+#EXTINF:-1 tvg-id="wowNowkids.us" tvg-name="wow Now kids" tvg-country="US" tvg-language="" tvg-logo="" group-title="",wow Now kids
+https://wownow-wownowkids-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-name="Fashion TV UHD" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",Fashion TV UHD (2160p)
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVPG16.fr" tvg-name="FashionTV PG16" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Lifestyle",FashionTV PG16
