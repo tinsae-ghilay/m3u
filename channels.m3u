@@ -362,13 +362,9 @@ http://185.105.4.107:1935/live/Bahrain%20Sports%202/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barça TV" tvg-country="ES" tvg-language="Spanish;Catalan" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="Sports",Barça TV
 http://5.255.90.184:2002/play/a01z
-#EXTINF:-1 tvg-id="beINSports1Asia.qa" tvg-name="beIN Sports 1 Asia" tvg-country="QA" tvg-language="" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports",beIN Sports 1 Asia
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 tvg-id="beINSports1English.qa" tvg-name="beIN Sports 1 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="Sports",beIN Sports 1 English [Not 24/7]
-
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="beINSports2English.qa" tvg-name="beIN Sports 2 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="Sports",beIN Sports 2 English [Not 24/7]
-
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="BekSportsEast.us" tvg-name="Bek Sports East" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports East (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
