@@ -306,6 +306,10 @@ https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_d
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1 tvg-id="EdgeSport.uk" tvg-name="Edge Sport" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Sports",Edge Sport (1080p)
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSports1English.qa" tvg-name="beIN Sports 1 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-1-qa.png" group-title="Sports",beIN Sports 1 English [Not 24/7]
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-id="beINSports2English.qa" tvg-name="beIN Sports 2 English" tvg-country="TH" tvg-language="English" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-english-2-qa.png" group-title="Sports",beIN Sports 2 English [Not 24/7]
+https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN
 http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDg6NTI6MDUgQU0maGFzaF92YWx1ZT02dkk5bitvVHJveEQ4eHFjNE5qYWdnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN 2 (720p)
@@ -436,13 +440,10 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="Fite.us" tvg-name="Fite" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21QWq2v0DGL.png" group-title="Sports",Fite
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports2AsiaThai.us" tvg-name="Fox Sports 2 Asia Thai" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Sports",Fox Sports 2 Asia Thai (720p) [Not 24/7]
-
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="FoxSports3AsiaThai.us" tvg-name="Fox Sports 3 Asia Thai" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports3.png" group-title="Sports",Fox Sports 3 Asia Thai (720p) [Not 24/7]
-
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="FoxSportsAsiaThai.us" tvg-name="Fox Sports Asia Thai" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports1.png" group-title="Sports",Fox Sports Asia Thai (720p) [Not 24/7]
-
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="FreeSports" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="Sports",FreeSports (1080p)
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
@@ -457,7 +458,6 @@ https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
 #EXTINF:-1 tvg-id="GEMFit.ir" tvg-name="GEM Fit" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.net/Assets/channels-box/gem_fit.png?14" group-title="Sports",GEM Fit [Geo-blocked]
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
 #EXTINF:-1 tvg-id="GolfChannelThailandHD.th" tvg-name="Golf Channel Thailand HD" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" group-title="Sports",Golf Channel Thailand HD (720p) [Not 24/7]
-
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="GRVTY.us" tvg-name="GRVTY" tvg-country="US" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6065639a7ec4e2633f0c7d83" group-title="Sports",GRVTY
 https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
@@ -508,7 +508,6 @@ https://ed1ov.live.opencaster.com/jcpstream_hd720/index.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="Sports",Monterrico TV (720p) [Not 24/7]
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-nba.png" group-title="Sports",NBA TV (720p) [Not 24/7]
-
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" group-title="Sports",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
@@ -599,25 +598,18 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SkiTV.uk" tvg-name="Ski TV" tvg-country="UK" tvg-language="English" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" group-title="Sports",Ski TV (1080p)
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 #EXTINF:-1 tvg-id="SkyNetSports1.mm" tvg-name="Sky Net Sports 1" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports1.png" group-title="Sports",Sky Net Sports 1 (480p Scaled) [Not 24/7]
-
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNetSports2.mm" tvg-name="Sky Net Sports 2" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports2.png" group-title="Sports",Sky Net Sports 2 (480p Scaled) [Not 24/7]
-
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNetSports3.mm" tvg-name="Sky Net Sports 3" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports3.png" group-title="Sports",Sky Net Sports 3 (480p Scaled) [Not 24/7]
-
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNetSports4.mm" tvg-name="Sky Net Sports 4" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sports",Sky Net Sports 4 (480p Scaled) [Not 24/7]
-
 https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNetSports5.mm" tvg-name="Sky Net Sports 5" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sports",Sky Net Sports 5 (480p Scaled) [Not 24/7]
-
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNetSports6.mm" tvg-name="Sky Net Sports 6" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sports",Sky Net Sports 6 (480p Scaled) [Not 24/7]
-
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyNetSportsHD.mm" tvg-name="Sky Net Sports HD" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sports",Sky Net Sports HD (720p) [Not 24/7]
-
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-name="Snowy Mountains Television" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="Sports",Snowy Mountains Television (1082p)
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
