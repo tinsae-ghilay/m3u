@@ -89,10 +89,6 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="FOX Movies" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" group-title="News",WAGA Fox Movies (720p)	
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/992gw0d.png" group-title="Movies",FOX
-https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
-#EXTINF:-1 tvg-id="FOXCrime.us" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LCDcM0F.png" group-title="",FOX Crime
-https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="",Comedy Channel (1080p)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamicsSTIRR.us" tvg-name="Comedy Dynamics (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90195c82-4090-472d-9039-09be4e9c472f-small3x1_STIRR_Logo_0320_ComedyDynamics_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Comedy",Comedy Dynamics (STIRR) (1080p)
