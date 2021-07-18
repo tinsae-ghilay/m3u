@@ -89,6 +89,10 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="FOX Movies" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" group-title="News",WAGA Fox Movies (720p)	
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/992gw0d.png" group-title="Movies",FOX
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+#EXTINF:-1 tvg-id="FOXCrime.us" tvg-name="FOX Crime" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LCDcM0F.png" group-title="",FOX Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
 #EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="",Comedy Channel (1080p)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyDynamicsSTIRR.us" tvg-name="Comedy Dynamics (STIRR)" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90195c82-4090-472d-9039-09be4e9c472f-small3x1_STIRR_Logo_0320_ComedyDynamics_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Comedy",Comedy Dynamics (STIRR) (1080p)
@@ -128,6 +132,12 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="General",Dubai One (1080p)
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Cinemax Action
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-name="Discover.Film" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/yjIYUim.jpg" group-title="",Discover.Film (720p)
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Crackle.us" tvg-name="Crackle" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="Movies",Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Dust.us" tvg-name="Dust" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Movies",Dust (720p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:-1 tvg-id="Dust.uk" tvg-name="Dust" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/pXXUmuW.jpg" group-title="",Dust (720p)
@@ -148,8 +158,14 @@ https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
 https://amc-rushbyamc-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="English" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Movies",HBO Malaysia
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="HBO Signature" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" group-title="",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-name="Ion Plus" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="Family",Ion Plus (1080p)
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="iFILMEnglish.ir" tvg-name="iFILM English" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" group-title="Movies",iFILM English
+https://live1.presstv.ir/live/ifilmen.m3u8
 #EXTINF:-1 tvg-id="AquaTeenHungerForce.us" tvg-name="Aqua Teen H.F " tvg-country="US" tvg-language="English" tvg-logo="" group-title="",Aqua Teen Hunger Force (Adult Swim 24/7 Stream) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 #EXTINF:-1 tvg-id="Bounce.us" tvg-name="Bounce" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YoiQKeG.png" group-title="General",Bounce (720p)
@@ -170,6 +186,8 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TravelXP.uk" tvg-name="Travel XP" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="",Travel XP (720p)
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LuxeTV.fr" tvg-name="Luxe TV" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/8tWhfap.png" group-title="",Luxe TV (720p)
+https://alchimie-luxe-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.us" tvg-name="PBS America" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J4zE5z9.jpg" group-title="General",PBS America (720p)
 https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSWorldChannel.us" tvg-name="PBS World Channel" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true" group-title="Entertainment",PBS World Channel
@@ -242,6 +260,8 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 https://to.hopslan.com/zdf/index.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at" tvg-name="Kronehit" tvg-country="AT" tvg-language="German" tvg-logo="" group-title="Music",Kronehit (1080p)
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="DanceStarTV.us" tvg-name="DanceStar TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xLqyZQQ.png" group-title="Music",DanceStar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZWEI2Music.de" tvg-name="ZWEI2 Music" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="Music",ZWEI2 Music (1080p)
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 #EXTINF:-1 tvg-id="MTVMistleYO.us" tvg-name="MTV Mistle YO!" tvg-country="US" tvg-language="English" tvg-logo="http://i.imgur.com/dh6sgLX.jpg" group-title="Music",MTV Mistle YO! (720p)
