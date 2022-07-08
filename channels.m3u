@@ -16,7 +16,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-id="Arirang.kr" tvg-name="Arirang" tvg-country="KR" tvg-language="English" tvg-logo="https://en.wikipedia.org/wiki/Arirang_TV#/media/File:Arirang-TV-Logo.svg" group-title="News"
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN (720p)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="News",GB News
