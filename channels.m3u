@@ -17,18 +17,18 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" url-type="youtube"  tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
 h3MuIUNCCzI
-#EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-name="SKY News" tvg-country="AU" url-type="server"  tvg-language="English" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 1 (540p)
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-name="SKY News" tvg-country="AU" url-type="youtube" tvg-language="English" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 1 (540p)
+#EXTINF:-1 tvg-id="SkyNews.UK" tvg-name="SKY News" tvg-country="UK" url-type="youtube" tvg-language="English" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News live(youtube)
 9Auq9mYxFEE
+#EXTINF:-1 tvg-id="wion.IN" tvg-name="WION" url-type="youtube"  tvg-country="IN" tvg-language="English" tvg-logo="https://photos.live-tv-channels.org/tv-logo/wion-tv-1042-150x112.jpg" group-title="News",Wion World is one(youtube)
+KyUT37gNm5w
+#EXTINF:-1 tvg-id="Euronews.EU" tvg-name="EURONEWS" url-type="youtube"  tvg-country="EU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png" group-title="News",Euronews English (youtube)
+sPgqEHsONK8
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" url-type="server"  tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN (720p)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" url-type="server"  tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
 #EXTINF:-1 tvg-id="Newsmax.us" tvg-name="Newsmax" url-type="server"  tvg-country="US" tvg-language="English" tvg-logo="https://image.xumo.com/v1/channels/channel/9999194/300x300.png?type=color_onBlack" group-title="News",Newsmax (1080p)
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="WionNews.IN" tvg-name="WION" url-type="server"  tvg-country="IN" tvg-language="English" tvg-logo="https://en.wikipedia.org/wiki/WION#/media/File:WION_news_Logo.svg" group-title="News",Wion World is one News (1080p)
-https://d3neuepii3rf1i.cloudfront.net/v1/manifest/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/476266d6-6a35-47af-ac71-c5f3245276b3/2.m3u8
 #EXTINF:-1 tvg-id="FOXNewsNow.us" tvg-name="FOX News Now" url-type="server"  tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo! Finance" url-type="server"  tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kiVL66Q.png" group-title="",Yahoo! Finance (1080p)
