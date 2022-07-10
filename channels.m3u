@@ -17,6 +17,10 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" url-type="youtube"  tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
 h3MuIUNCCzI
+#EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 1 (540p)
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 1 (540p)
+9Auq9mYxFEE
 #EXTINF:-1 tvg-id="18" tvg-name="CGTN" url-type="server"  tvg-country="CN" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/800px-CGTN.svg.png" group-title="News",CGTN (720p)
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" url-type="server"  tvg-country="UK" tvg-language="English" tvg-logo="https://www.gbnews.uk/view-resources/dachser2/public/gbnews/logo.svg" group-title="News",GB News
