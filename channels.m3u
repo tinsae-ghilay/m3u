@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EBSHD"tvg-name="Ebs HD Tv" url-type="server" tvg-country="ET" tvg-language="Amharic" tvg-logo="" group-title="Music" EBS music HD
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
-#EXTINF:-1 tvg-id="EBSCinema.us",EBS Cinema (720p)
+#EXTINF:-1 tvg-id="EBSCinema.us" tvg-name="EBS cinema" url-type="server" tvg-country="ET" tvg-language="Amharic" tvg-logo="" group-title="Film" EBS Cinema (720p)
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
 #EXTINF:-1 tvg-id="EBSHD.us",EBS HD (1080p)
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
