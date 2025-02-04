@@ -157,9 +157,9 @@ https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 https://insighttv-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InwonderTV.nl" tvg-name="Inwonder TV" url-type="server"  tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/2V9wsWp.png" group-title="",Inwonder TV (720p)
 https://inwonder-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ORF3.at" tvg-name="ORF 3" url-type="server"  tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_III_Logo.png" group-title="",ORF 3 (720p) [Geo-blocked]
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="oe24TV.at" tvg-name="oe24.TV" url-type="server"  tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="",oe24.TV (720p)
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="ORF 2" url-type="server"  tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/ORF_II_Logo.png" group-title="",ORF 2 (720p) [Geo-blocked]
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+#EXTINF:-1 tvg-id="oe24TV.at" tvg-name="oe24.TV" url-type="server"  tvg-country="AT" tvg-language="German" tvg-logo="https://i.imgur.com/gRHJDxr.png" group-title="News",oe24.TV (720p)
 https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" url-type="server"  tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="Sports",World of Freesports
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
