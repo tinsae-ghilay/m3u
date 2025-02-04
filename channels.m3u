@@ -3,15 +3,13 @@
 https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
 #EXTINF:-1 tvg-id="EBSCinema.us" tvg-name="EBS cinema" url-type="server" tvg-country="ET" tvg-language="Amharic" tvg-logo="" group-title="Film" EBS Cinema (720p)
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
-#EXTINF:-1 tvg-id="EBSHD.us",EBS HD (1080p)
-https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
-#EXTINF:-1 tvg-id="EBSMusika.us",EBS Musika (720p)
+#EXTINF:-1 tvg-id="EBSMusika.us" tvg-name="EBS Musica" url-type="server" tvg-country="ET" tvg-language="Amharic" tvg-logo="" group-title="Music" EBS Musika (720p)
 https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
-#EXTINF:-1 tvg-id="MerejaTV.et",Mereja TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MerejaTV.et" tvg-name="Mereja" url-type="server" tvg-country="ET" tvg-language="Amharic" tvg-logo="" group-title="News" Mereja TV (1080p) [Not 24/7]
 https://rumble.com/live-hls-dvr/4c14o3/playlist.m3u8
-#EXTINF:-1 tvg-id="NesihaTV.et",Nesiha TV (720p)
+#EXTINF:-1 tvg-id="NesihaTV.et" tvg-name="Nesiha" url-type="server" tvg-country="ET" tvg-language="Amharic" tvg-logo="" group-title="Film" Nesiha TV (720p)
 https://ffs3.gulfsat.com/Nesiha-TV/video.m3u8
-#EXTINF:-1 tvg-id="WaltaTV.et",Walta TV (614p)
+#EXTINF:-1 tvg-id="WaltaTV.et" tvg-name="Walta" url-type="server" tvg-country="ET" tvg-language="Amharic" tvg-logo="" group-title="News"  Walta TV (614p)
 https://live.zergaw.et/hls/1234.m3u8
 #EXTINF:-1 tvg-id="Africanews.eu" tvg-name="Africanews Live" url-type="server"  tvg-country="DE" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Africanews._alternative_logo_2016.png" group-title="News",Africanews
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
